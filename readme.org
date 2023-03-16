@@ -1,0 +1,7 @@
+* Readme 
+** npm run dev
+** Learning goals 
+- [ ] Folder & File Structure
+- [ ] Hooks
+- [ ] Create user interface using Material UI
+- [ ] Fetch data from multiple APIs
