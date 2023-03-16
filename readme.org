@@ -1,7 +1,26 @@
 * Readme 
+
+** Overview
+YouTube: [[https://www.youtube.com/watch?v=KBpoBc98BwM&list=PL9Xa4qTgjyDu2kDrGHnz2cEhHV2Jxp7pR&index=26&t=517s][Build and Deploy a Modern React 18 Fitness Exercises App With APIs | RapidAPI - JavaScript Mastery]] 
+Github: [[https://github.com/adrianhajdin/project_fitness_app][GitHub - adrianhajdin/project_fitness_app]] 
+ - Gist: [[https://gist.github.com/adrianhajdin/65d0f830036fd72b22f2d921ae3e29ad][Build and Deploy a Modern React 18 Fitness Exercises App With APIs | Golds Gym]] 
+ - Assets: [[https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fadrianhajdin%2Fproject_fitness_app%2Ftree%2Fmain%2Fsrc%2Fassets][DownGit]]
+APIs:
+ - [[https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel][ExerciseDB API Documentation (justin-WFnsXH_t6) | RapidAPI]]
+ - [[https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel][Youtube Search and Download API Documentation (h0p3rwe) | RapidAPI]]
+
 ** npm run dev
+#+begin_src shell
+  npm install --legacy-peer-deps
+#+end_src
+
 ** Learning goals 
-- [ ] Folder & File Structure
-- [ ] Hooks
-- [ ] Create user interface using Material UI
-- [ ] Fetch data from multiple APIs
+*** TODO Folder & File Structure
+- Note taken on [2023-03-16 Thu 15:11] \\
+  Pages
+- Note taken on [2023-03-16 Thu 15:11] \\
+  Components in a components folder
+*** TODO Hooks
+*** TODO Create user interface using Material UI
+*** TODO Fetch data from multiple APIs
+*** TODO Deployment
